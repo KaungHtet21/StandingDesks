@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Standing Desk Model A",
+    "price": 200,
+    "image": "./assets/desk8.png"
+  },
+  {
+    "id": 2,
+    "name": "Standing Desk Model B",
+    "price": 250,
+    "image": "./assets/desk3.png"
+  },
+  {
+    "id": 3,
+    "name": "Standing Desk Model C",
+    "price": 290,
+    "image": "./assets/desk2.png"
+  },
+  {
+    "id": 4,
+    "name": "Standing Desk Model D",
+    "price": 200,
+    "image": "./assets/desk1.png"
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk Model E",
+    "price": 300,
+    "image": "./assets/desk4.png"
+  },
+  {
+    "id": 6,
+    "name": "Standing Desk Model F",
+    "price": 200,
+    "image": "./assets/desk9.png"
+  },
+  {
+    "id": 7,
+    "name": "Standing Desk Model G",
+    "price": 200,
+    "image": "./assets/desk6.png"
+  },
+  {
+    "id": 8,
+    "name": "Standing Desk Model H",
+    "price": 200,
+    "image": "./assets/desk0.png"
+  }
+]
